@@ -1,15 +1,25 @@
 
+## 👋 Hi there! I'm Chainey.
 
 
-### Languages and Tools:
 
-<img align="left" alt="torch" title="pytorch" width="35px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
-<img align="left" alt="python" title="python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="latex"  title="latex" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img align="left" alt="matlab"  title="matlab" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="pycharm"  title="pycharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" />
-<img align="left" alt="docker"  title="docker" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
-<img align="left" alt="Git"  title="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub"  title="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+[![](https://github-readme-stats.vercel.app/api?username=chaineypung&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Info
+* 计算机视觉深度爱好者
+
+
+### ✨ Footprint
+* Kaggle HuBMAP + HPA - Hacking the Human Body: 金牌
+* Kaggle HMS - Harmful Brain Activity Classification：银牌
+* Kaggle SenNet + HOA - Hacking the Human Vasculature in 3D: 银牌
+* Kaggle UBC Ovarian Cancer Subtype Classification and Outlier Detection: 银牌
+* 2023 科大讯飞脑PET图像分析和疾病预测挑战赛：冠军
+* 2022 百度时序提名动作定位大赛：冠军
+* 2022 CCF婴儿超声波血管瘤分割挑战赛：冠军
+* 2023 科大讯飞粮食和经济作物病害图像识别挑战赛：亚军
+* 2022 华为云阿尔茨海默症分类技术挑战赛：季军
+* 2022 MICCAI偏头痛患者dMRI超分辨率竞赛：第五名
+* 2022 CVPR-NTIRE双目图像超分辨率竞赛：第七名
 
 
