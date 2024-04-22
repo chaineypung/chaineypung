@@ -6,7 +6,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=chaineypung&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Info
-* 计算机视觉深度爱好者
+* 计算机视觉狂热爱好者
 
 
 ### ✨ Footprint
