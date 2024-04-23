@@ -8,8 +8,9 @@
 ### 📫 Info
 * Kaggle Master
 * 计算机视觉爱好者
-
-
+* Parallel Interactive Transformer作者 (CVPR 2022)
+* Deep Compressive Sensing‐based q‐space Learning作者
+* 
 ### ✨ Footprint
 * 2022 Kaggle HuBMAP + HPA - Hacking the Human Body: 金牌
 * 2024 Kaggle HMS - Harmful Brain Activity Classification: 银牌
