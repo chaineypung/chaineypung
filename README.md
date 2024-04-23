@@ -11,6 +11,7 @@
 * Parallel Interactive Transformer作者 (CVPR 2022)
 * Deep Compressive Sensing‐based q‐space Learning作者
 * 图像生成，图像匹配，图像分割，图像分类，图像超分辨率，深度估计，姿态估计，目标检测
+* 欢迎私信探讨生成式模型在宠物行业的落地性应用
 
   
 ### ✨ Footprint
