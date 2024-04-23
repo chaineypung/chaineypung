@@ -7,7 +7,6 @@
 
 ### 📫 Info
 * Kaggle Master
-* 计算机视觉爱好者
 * Parallel Interactive Transformer作者 (CVPR 2022)
 * Deep Compressive Sensing‐based q‐space Learning作者
 
