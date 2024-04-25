@@ -32,7 +32,7 @@
 * Brain tumor segmentation via uncertainty guided Transformer, MBEC 2023
 * Deep-based super-angular resolution for diffusion imaging, PRCV 2021
 * Graph Convolutional Network with Attention Mechanism Improve Major Depressive Depression Diagnoisis Based on Plasma Biomarkers and Neuroimaging Data, JAD 2024
-* NTIRE 2022 challenge on stereo image super-resolution: methods and resultsNTIRE 2022 challenge on stereo image super-resolution: methods and results, CVPR 2022 
+* NTIRE 2022 challenge on stereo image super-resolution: methods and results, CVPR 2022 
 * Super-resolved q-space learning for diffusion MRI, Medical Physics 2023
 * Validation of deep learning techniques for quality augmentation in diffusion MRI for clinical studies, NeuroImage 2023
 
