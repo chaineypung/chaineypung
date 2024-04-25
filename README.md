@@ -34,5 +34,6 @@
 * NTIRE 2022 challenge on stereo image super-resolution: methods and results, CVPR 2022 
 * Super-resolved q-space learning for diffusion MRI, Medical Physics 2023
 * Validation of deep learning techniques for quality augmentation in diffusion MRI for clinical studies, NeuroImage 2023
+* Vibration-based bridge damage detection using convolutional autoencoder and gradient boosting decision tree, Civil Engineering 2024
 
 
