@@ -7,11 +7,11 @@
 
 ### 📫 Info
 * Kaggle Master
-* 交通视觉算法工程师
+* 交通视觉算法工程师,现负责图像生成与模型轻量化
 * Parallel Interactive Transformer作者 (CVPR 2022)
 * Deep Compressive Sensing‐based q‐space Learning作者
+* 欢迎私信探讨生成模型在宠物行业的落地性应用与技术性问题
 * 图像生成，图像匹配，图像分割，图像分类，图像超分辨率，深度估计，姿态估计，目标检测
-* 欢迎私信探讨生成式模型在宠物行业的落地性应用与技术性问题
 
   
 ### ✨ Footprint
@@ -27,5 +27,13 @@
 * 2024 中国航天“智衡屋”AI挑战赛赛道二遥感目标识别赛：季军
 * 2022 MICCAI偏头痛患者dMRI超分辨率竞赛: 第五名
 * 2022 CVPR-NTIRE双目图像超分辨率竞赛: 第七名
+
+### ✨ Paper
+* Brain tumor segmentation via uncertainty guided Transformer, MBEC 2023
+* Deep-based super-angular resolution for diffusion imaging, PRCV 2021
+* Graph Convolutional Network with Attention Mechanism Improve Major Depressive Depression Diagnoisis Based on Plasma Biomarkers and Neuroimaging Data, JAD 2024
+* NTIRE 2022 challenge on stereo image super-resolution: methods and resultsNTIRE 2022 challenge on stereo image super-resolution: methods and results, CVPR 2022 
+* Super-resolved q-space learning for diffusion MRI, Medical Physics 2023
+* Validation of deep learning techniques for quality augmentation in diffusion MRI for clinical studies, NeuroImage 2023
 
 
