@@ -17,6 +17,7 @@
   
 ### ✨ Footprint
 * 2022 Kaggle HuBMAP + HPA - Hacking the Human Body: 金牌
+* 2024 Kaggle CVPR Image Matching Challenge: 银牌
 * 2024 Kaggle HMS - Harmful Brain Activity Classification: 银牌
 * 2024 Kaggle SenNet + HOA - Hacking the Human Vasculature in 3D: 银牌
 * 2023 Kaggle UBC Ovarian Cancer Subtype Classification and Outlier Detection: 银牌
