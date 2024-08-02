@@ -22,6 +22,8 @@
 * 2024 Kaggle SenNet + HOA - Hacking the Human Vasculature in 3D: 银牌
 * 2023 Kaggle UBC Ovarian Cancer Subtype Classification and Outlier Detection: 银牌
 * 2024 PRCV广域红外小目标检测挑战赛：冠军
+* 2024 ICPR红外小目标弱监督检测挑战赛：冠军
+* 2024 ICPR红外小目标模型轻量化检测挑战赛：冠军
 * 2023 科大讯飞脑PET图像分析和疾病预测挑战赛: 冠军
 * 2022 百度时序提名动作定位大赛: 冠军
 * 2021 CCF婴儿超声波血管瘤分割挑战赛: 冠军
