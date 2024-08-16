@@ -40,6 +40,6 @@
 * NTIRE 2022 challenge on stereo image super-resolution: methods and results, CVPR 2022 
 * Super-resolved q-space learning for diffusion MRI, Medical Physics 2023
 * Validation of deep learning techniques for quality augmentation in diffusion MRI for clinical studies, NeuroImage 2023
-* Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation, 2024
+* Beyond Full Label: Single-Point prompt for infrared small target label generation, 2024
 
 
