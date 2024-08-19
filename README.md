@@ -8,18 +8,18 @@
 现负责图像生成与模型轻量化
 
 ### 📫 Info
-* Kaggle Master
-* Parallel Interactive Transformer作者 (CVPR 2022)
-* Deep Compressive Sensing‐based q‐space Learning作者
-* 欢迎私信探讨生成模型在宠物行业的落地性应用与技术性问题
-* 图像生成，图像匹配，图像分割，图像分类，图像超分辨率，深度估计，姿态估计，目标检测，文字识别，表面法线估计，三维重建，图像配准，蛋白质序列预测，心电图检测，语音生成，语音检测，时序预测
+| ---- | ---- | ---- | ---- | ---- |  
+| 图像生成 | 图像匹配 | 图像分割 | 图像分类 |
+| 图像超分辨率 | 深度估计 | 姿态估计 | 目标检测 |
+| 文字识别 | 表面法线估计 | 三维重建 | 图像配准 |
+| 心电图检测 | 语音生成 | 语音检测 | 时序预测 |
 
   
 ### ✨ Competition
 |  年份  |  举办方  |  名称  |  方向  |  奖项  |
 | ---- | ---- | ---- | ---- | ---- |  
 | 2021 | 华为 | 阿尔茨海默症分类技术挑战赛 | 机器学习 | 季军 |
-| 2021 | 中国计算机学会 | 婴儿超声波血管瘤分割挑战赛 | 图像分割 | **冠军** |
+| 2021 | CCF | 婴儿超声波血管瘤分割挑战赛 | 图像分割 | **冠军** |
 | 2022 | Kaggle | HuBMAP + HPA - Hacking the Human Body | 图像分割 | **金牌** |
 | 2022 | 百度 | 时序提名动作定位大赛 | 动作识别 | **冠军** |
 | 2022 | MICCAI | 偏头痛患者dMRI超分辨率竞赛 | 图像超分 | 第五名 |
@@ -27,7 +27,7 @@
 | 2023 | Kaggle | UBC Ovarian Cancer Subtype Classification and Outlier Detection | 图像分类 | 银牌 |
 | 2023 | 科大讯飞 | 脑PET图像分析和疾病预测挑战赛 | 图像分类 | **冠军** |
 | 2023 | 科大讯飞 | 粮食和经济作物病害图像识别挑战赛 | 图像分类 | 亚军 |
-| 2024 | Kaggle&CVPR | Image Matching Challenge | 图像匹配 | 银牌 |
+| 2024 | CVPR | Image Matching Challenge | 图像匹配 | 银牌 |
 | 2024 | Kaggle | HMS - Harmful Brain Activity Classification | 语音识别 | 银牌 |
 | 2024 | Kaggle | SenNet + HOA - Hacking the Human Vasculature in 3D | 图像分割 | 银牌 |
 | 2024 | PRCV | 广域红外小目标检测挑战赛 | 图像分割 | **冠军** |
