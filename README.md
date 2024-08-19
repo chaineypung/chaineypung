@@ -16,22 +16,27 @@
 
   
 ### ✨ Footprint
-* 2022 Kaggle HuBMAP + HPA - Hacking the Human Body: 金牌
-* 2024 Kaggle CVPR Image Matching Challenge: 银牌
-* 2024 Kaggle HMS - Harmful Brain Activity Classification: 银牌
-* 2024 Kaggle SenNet + HOA - Hacking the Human Vasculature in 3D: 银牌
-* 2023 Kaggle UBC Ovarian Cancer Subtype Classification and Outlier Detection: 银牌
-* 2024 PRCV广域红外小目标检测挑战赛：冠军
-* 2024 ICPR红外小目标弱监督检测挑战赛：冠军
-* 2024 ICPR红外小目标模型轻量化检测挑战赛：冠军
-* 2023 科大讯飞脑PET图像分析和疾病预测挑战赛: 冠军
-* 2022 百度时序提名动作定位大赛: 冠军
-* 2021 CCF婴儿超声波血管瘤分割挑战赛: 冠军
-* 2023 科大讯飞粮食和经济作物病害图像识别挑战赛: 亚军
-* 2021 华为云阿尔茨海默症分类技术挑战赛: 季军
-* 2024 中国航天“智衡屋”AI挑战赛赛道二遥感目标识别赛：季军
-* 2022 MICCAI偏头痛患者dMRI超分辨率竞赛: 第五名
-* 2022 CVPR-NTIRE双目图像超分辨率竞赛: 第七名
+|  年份  |  举办方  |  名称  |  奖项  |
+| ---- | ---- | ---- | ---- | 
+| 2021 | 华为 | 阿尔茨海默症分类技术挑战赛 | 季军 |
+| 2021 | 中国计算机学会 | 婴儿超声波血管瘤分割挑战赛 | 冠军 |
+
+| 2022 | Kaggle | 阿尔茨海默症分类技术挑战赛 | 季军 |
+| 2022 | 百度 | 时序提名动作定位大赛 | 冠军 |
+| 2022 | MICCAI | 偏头痛患者dMRI超分辨率竞赛 | 第五名 |
+| 2022 | CVPR | 双目图像超分辨率竞赛 | 第七名 |
+
+| 2023 | Kaggle | UBC Ovarian Cancer Subtype Classification and Outlier Detection | 银牌 |
+| 2023 | 科大讯飞 | 脑PET图像分析和疾病预测挑战赛 | 冠军 |
+| 2023 | 科大讯飞 | 粮食和经济作物病害图像识别挑战赛 | 亚军 |
+
+| 2024 | Kaggle&CVPR | Image Matching Challenge | 银牌 |
+| 2024 | Kaggle | HMS - Harmful Brain Activity Classification | 银牌 |
+| 2024 | Kaggle | SenNet + HOA - Hacking the Human Vasculature in 3D | 银牌 |
+| 2024 | PRCV | 广域红外小目标检测挑战赛 | 冠军 |
+| 2024 | ICPR | 红外小目标弱监督检测挑战赛 | 冠军 |
+| 2024 | ICPR | 红外小目标模型轻量化检测挑战赛 | 冠军 |
+| 2024 | 中国航天 | “智衡屋”AI挑战赛赛道二遥感目标识别赛 | 季军 |
 
 ### ✨ Paper
 * Brain tumor segmentation via uncertainty guided Transformer, MBEC 2023
