@@ -1,9 +1,6 @@
 
 ## 👋 Hi there! I'm Chainey.
 
-[![](https://github-readme-stats.vercel.app/api?username=chaineypung&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 📫 Info
 擅长图像生成，图像匹配，图像分割，图像分类，图像超分辨率，深度估计，姿态估计，目标检测，文字识别，表面法线估计，三维重建，图像配准，心电图检测，语音生成，语音检测，时序预测
 
@@ -27,6 +24,7 @@
 | 2024 | ICPR | 红外小目标弱监督检测挑战赛 | 图像分割 | **冠军** |
 | 2024 | ICPR | 红外小目标模型轻量化检测挑战赛 | 图像分割 | **冠军** |
 | 2024 | 中国航天 | “智衡屋”AI挑战赛赛道二遥感目标识别赛 | 目标检测 | 季军 |
+
 
 ### ✨ Paper
 | 年份 | 名称 | 期刊 |
