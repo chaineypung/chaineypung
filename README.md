@@ -3,9 +3,6 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=chaineypung&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-交通视觉算法工程师
-
-现负责图像生成与模型轻量化
 
 ### 📫 Info
 | - | - | - | - |
