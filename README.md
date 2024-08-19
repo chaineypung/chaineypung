@@ -20,16 +20,13 @@
 | ---- | ---- | ---- | ---- | 
 | 2021 | 华为 | 阿尔茨海默症分类技术挑战赛 | 季军 |
 | 2021 | 中国计算机学会 | 婴儿超声波血管瘤分割挑战赛 | 冠军 |
-
 | 2022 | Kaggle | 阿尔茨海默症分类技术挑战赛 | 季军 |
 | 2022 | 百度 | 时序提名动作定位大赛 | 冠军 |
 | 2022 | MICCAI | 偏头痛患者dMRI超分辨率竞赛 | 第五名 |
 | 2022 | CVPR | 双目图像超分辨率竞赛 | 第七名 |
-
 | 2023 | Kaggle | UBC Ovarian Cancer Subtype Classification and Outlier Detection | 银牌 |
 | 2023 | 科大讯飞 | 脑PET图像分析和疾病预测挑战赛 | 冠军 |
 | 2023 | 科大讯飞 | 粮食和经济作物病害图像识别挑战赛 | 亚军 |
-
 | 2024 | Kaggle&CVPR | Image Matching Challenge | 银牌 |
 | 2024 | Kaggle | HMS - Harmful Brain Activity Classification | 银牌 |
 | 2024 | Kaggle | SenNet + HOA - Hacking the Human Vasculature in 3D | 银牌 |
