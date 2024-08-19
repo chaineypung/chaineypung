@@ -34,6 +34,18 @@
 | 2024 | 中国航天 | “智衡屋”AI挑战赛赛道二遥感目标识别赛 | 目标检测 | 季军 |
 
 ### ✨ Paper
+| 年份 | 名称 | 期刊 |
+| ---- | ---- | ---- | 
+| 2021 | Deep-based super-angular resolution for diffusion imaging | PRCV |
+| 2022 | NTIRE 2022 challenge on stereo image super-resolution: methods and results | CVPR |
+| 2023 | Brain tumor segmentation via uncertainty guided Transformer | MBEC |
+| 2023 | Super-resolved q-space learning for diffusion MRI | Medical Physics |
+| 2023 | Validation of deep learning techniques for quality augmentation in diffusion MRI for clinical studies | NeuroImage |
+| 2024 | Beyond Full Label: Single-Point prompt for infrared small target label generation | To be published |
+| 2024 | The First Competition on Resource-Limited Infrared
+Small Target Detection Challenge: Methods and
+Results | To be published |
+
 * Brain tumor segmentation via uncertainty guided Transformer, MBEC 2023
 * Deep-based super-angular resolution for diffusion imaging, PRCV 2021
 * Graph Convolutional Network with Attention Mechanism Improve Major Depressive Depression Diagnoisis Based on Plasma Biomarkers and Neuroimaging Data, JAD 2024
