@@ -30,7 +30,7 @@
 | 2024 | ICPR | 红外小目标弱监督检测挑战赛 | 图像分割 | **冠军** |
 | 2024 | ICPR | 红外小目标模型轻量化检测挑战赛 | 图像分割 | **冠军** |
 | 2024 | 中国航天 | “智衡屋”AI挑战赛赛道二遥感目标识别赛 | 目标检测 | 季军 |
-| 2024 | Kaggle | RSNA 2024 Lumbar Spine Degenerative Classification | 目标检测 | hold on |
+| 2024 | Kaggle | RSNA 2024 Lumbar Spine Degenerative Classification | 目标检测 | **金牌** |
 
 
 ### ✨ Paper
