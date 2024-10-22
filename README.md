@@ -2,8 +2,6 @@
 ## 👋 Hi there! I'm Chainey.
 
 ### 📫 Info
-[[My Kaggle Homepage]](https://www.kaggle.com/chenxupeng) 
-
 
 [[My Google Scholar Homepage]](https://scholar.google.com/citations?user=h4orPsUAAAAJ&hl=zh-CN&oi=ao)
 
@@ -23,7 +21,7 @@
 | 2023 | Kaggle | UBC Ovarian Cancer Subtype Classification and Outlier Detection | 图像分类 | 银牌 |
 | 2023 | 科大讯飞 | 脑PET图像分析和疾病预测挑战赛 | 图像分类 | **冠军** |
 | 2023 | 科大讯飞 | 粮食和经济作物病害图像识别挑战赛 | 图像分类 | 亚军 |
-| 2024 | CVPR | Image Matching Challenge | 图像匹配 | 银牌 |
+| 2024 | CVPR | Image Matching Challenge | 图像匹配 | **金牌**  |
 | 2024 | Kaggle | HMS - Harmful Brain Activity Classification | 语音识别 | 银牌 |
 | 2024 | Kaggle | SenNet + HOA - Hacking the Human Vasculature in 3D | 图像分割 | 银牌 |
 | 2024 | PRCV | 广域红外小目标检测挑战赛 | 图像分割 | **冠军** |
