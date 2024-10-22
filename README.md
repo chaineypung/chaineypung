@@ -35,7 +35,7 @@
 | 年份 | 名称 | 期刊 |
 | ---- | ---- | ---- | 
 | 2021 | Deep-based super-angular resolution for diffusion imaging | PRCV |
-| 2022 | NTIRE 2022 challenge on stereo image super-resolution: methods and results | CVPR |
+| 2022 | NTIRE 2022 challenge on stereo image super-resolution: methods and results | CVPRW |
 | 2023 | Brain tumor segmentation via uncertainty guided Transformer | MBEC |
 | 2023 | Super-resolved q-space learning for diffusion MRI | Medical Physics |
 | 2023 | Validation of deep learning techniques for quality augmentation in diffusion MRI for clinical studies | NeuroImage |
