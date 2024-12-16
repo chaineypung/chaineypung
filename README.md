@@ -40,7 +40,7 @@
 | 2023 | Super-resolved q-space learning for diffusion MRI | Medical Physics |
 | 2023 | Validation of deep learning techniques for quality augmentation in diffusion MRI for clinical studies | NeuroImage |
 | 2024 | Beyond Full Label: Single-Point prompt for infrared small target label generation | To be published |
-| 2024 | The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results | To be published |
+| 2024 | The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results | ICPR |
 
 
 
