@@ -30,7 +30,7 @@
 | 2024 | 中国航天 | “智衡屋”AI挑战赛赛道二遥感目标识别赛 | 目标检测 | 季军 |
 | 2024 | Kaggle | RSNA 2024 Lumbar Spine Degenerative Classification | 目标检测 | **金牌** |
 | 2024 | Kaggle | RSNA 2024 Lumbar Spine Degenerative Classification | 目标检测 | **金牌** |
-| 2024 | 长光卫星 | “吉林一号”高分辨率遥感数据道路提取研究 | 目标检测 | **一等奖** |
+| 2024 | 长光卫星 | “吉林一号”高分辨率遥感数据道路提取研究 | 图像分割 | **一等奖** |
 
 
 
