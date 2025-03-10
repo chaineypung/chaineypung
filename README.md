@@ -31,7 +31,7 @@
 | 2024 | Kaggle | RSNA 2024 Lumbar Spine Degenerative Classification | 目标检测 | **金牌** |
 | 2025 | 长光卫星 | “吉林一号”高分辨率遥感数据道路提取研究 | 图像分割 | **一等奖** |
 | 2025 | CVPR | The 4th Anti-UAV Workshop (Track-1) | 目标跟踪 | **冠军** |
-| 2025 | CVPR | The 4th Anti-UAV Workshop (Track-2) | 目标跟踪 | **亚军** |
+| 2025 | CVPR | The 4th Anti-UAV Workshop (Track-2) | 目标跟踪 | 亚军 |
 
 
 
