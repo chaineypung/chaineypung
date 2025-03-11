@@ -64,10 +64,6 @@
 
 ---
 
-### 📌 Latest Updates
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaineypung&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaineypung&layout=compact&theme=radical)  
 
 ✍️ *Feel free to connect, collaborate, or discuss AI research!* 🚀
 
