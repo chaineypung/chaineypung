@@ -1,53 +1,74 @@
-
 ## 👋 Hi there! I'm Chainey.
 
-### 📫 Info
+![Profile Views](https://komarev.com/ghpvc/?username=chainey&color=blueviolet)
 
-[[My Google Scholar Homepage]](https://scholar.google.com/citations?user=h4orPsUAAAAJ&hl=zh-CN&oi=ao)
+| 🎯 **Computer Vision & AI** | 🏆 **Kaggle Master**
 
+---
 
-图像生成，图像匹配，图像分割，图像分类，图像超分辨率，深度估计，姿态估计，动作识别，目标检测，目标跟踪，文字识别，表面法线估计，三维重建，图像配准，语音生成，语音检测，时序预测
+### 📫 Contact
 
-  
-### ✨ Competition
-|  年份  |  举办方  |  名称  |  方向  |  奖项  |
-| ---- | ---- | ---- | ---- | ---- |  
-| 2021 | 华为 | 阿尔茨海默症分类技术挑战赛 | 机器学习 | 季军 |
-| 2021 | CCF | 婴儿超声波血管瘤分割挑战赛 | 图像分割 | **冠军** |
-| 2022 | Kaggle | HuBMAP + HPA - Hacking the Human Body | 图像分割 | **金牌** |
-| 2022 | 百度 | 时序提名动作定位大赛 | 动作识别 | **冠军** |
-| 2022 | 百度 | 花样滑冰运动员动作识别 | 动作识别 | Top1% |
-| 2022 | MICCAI | 偏头痛患者dMRI超分辨率竞赛 | 图像超分 | 第五名 |
-| 2022 | CVPR | 双目图像超分辨率竞赛 | 图像超分 | 第七名 |
-| 2023 | Kaggle | UBC Ovarian Cancer Subtype Classification and Outlier Detection | 图像分类 | 银牌 |
-| 2023 | Kaggle | Google Research - Identify Contrails to Reduce Global Warming | 图像分割 | 铜牌 |
-| 2023 | 科大讯飞 | 脑PET图像分析和疾病预测挑战赛 | 图像分类 | **冠军** |
-| 2023 | 科大讯飞 | 粮食和经济作物病害图像识别挑战赛 | 图像分类 | 亚军 |
-| 2024 | Kaggle | Image Matching Challenge | 图像匹配 | **金牌**  |
-| 2024 | Kaggle | HMS - Harmful Brain Activity Classification | 语音识别 | 银牌 |
-| 2024 | Kaggle | SenNet + HOA - Hacking the Human Vasculature in 3D | 图像分割 | 银牌 |
-| 2024 | PRCV | 广域红外小目标检测挑战赛 | 图像分割 | **冠军** |
-| 2024 | ICPR | 红外小目标弱监督检测挑战赛 | 图像分割 | **冠军** |
-| 2024 | ICPR | 红外小目标模型轻量化检测挑战赛 | 图像分割 | **冠军** |
-| 2024 | 中国航天 | “智衡屋”AI挑战赛赛道二遥感目标识别赛 | 目标检测 | 季军 |
-| 2024 | Kaggle | RSNA 2024 Lumbar Spine Degenerative Classification | 目标检测 | **金牌** |
-| 2025 | 长光卫星 | “吉林一号”高分辨率遥感数据道路提取研究 | 图像分割 | **一等奖** |
-| 2025 | CVPR | The 4th Anti-UAV Workshop (Track-1) | 目标跟踪 | **冠军** |
-| 2025 | CVPR | The 4th Anti-UAV Workshop (Track-2) | 目标跟踪 | 亚军 |
+📖 **[Google Scholar](https://scholar.google.com/citations?user=h4orPsUAAAAJ&hl=zh-CN&oi=ao)**  
 
 
+---
 
-### ✨ Paper
-| 年份 | 名称 | 期刊 |
-| ---- | ---- | ---- | 
-| 2021 | Deep-based super-angular resolution for diffusion imaging | PRCV |
-| 2022 | NTIRE 2022 challenge on stereo image super-resolution: methods and results | CVPRW |
-| 2023 | Super-resolved q-space learning for diffusion MRI | Medical Physics |
-| 2023 | Uncertainty-guided transformer for brain tumor segmentation | MBEC |
-| 2023 | Graph convolutional network with attention mechanism improve major depressive depression diagnosis based on plasma biomarkers and neuroimaging data | JAD |
-| 2023 | Validation of deep learning techniques for quality augmentation in diffusion MRI for clinical studies | NeuroImage |
-| 2024 | Beyond Full Label: Single-Point prompt for infrared small target label generation | IEEE JSTAR |
-| 2024 | The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results | ICPR |
+### 🖼️ Research Interests
 
+- **Image Processing:** Image Generation, Image Matching, Image Segmentation, Image Classification, Super-Resolution
+- **3D Vision:** Depth Estimation, Pose Estimation, 3D Reconstruction, Surface Normal Estimation
+- **AI & ML:** Object Detection, Object Tracking, OCR, Speech Generation & Detection, Temporal Prediction
 
+---
+
+### 🏆 Competitions
+
+| Year  | Organizer  | Competition | Task | Award |
+|-------|-----------|-------------|------|-------|
+| 2021  | Huawei  | Alzheimer's Classification Challenge | Machine Learning | 🥉 Third Place |
+| 2021  | CCF  | Infant Ultrasound Hemangioma Segmentation | Image Segmentation | 🥇 **Champion** |
+| 2022  | Kaggle | HuBMAP + HPA - Human Body Analysis | Image Segmentation | 🥇 **Gold Medal** |
+| 2022  | Baidu  | Temporal Action Localization | Action Recognition | 🥇 **Champion** |
+| 2022  | Baidu  | Figure Skating Athlete Action Recognition | Action Recognition | 🎖️ Top 1% |
+| 2022  | MICCAI | Migraine dMRI Super-Resolution | Image Super-Resolution | 🎖️ Fifth Place |
+| 2022  | CVPR | Stereo Image Super-Resolution Challenge | Image Super-Resolution | 🎖️ Seventh Place |
+| 2023  | Kaggle | Ovarian Cancer Classification | Image Classification | 🥈 Silver Medal |
+| 2023  | Kaggle | Google Contrails Identification | Image Segmentation | 🥉 Bronze Medal |
+| 2023  | iFlyTek | Brain PET Image Analysis & Disease Prediction | Image Classification | 🥇 **Champion** |
+| 2023  | iFlyTek | Crop Disease Image Recognition Challenge | Image Classification | 🥈 Runner-Up |
+| 2024  | Kaggle | Image Matching Challenge | Image Matching | 🥇 **Gold Medal** |
+| 2024  | Kaggle | HMS - Harmful Brain Activity Classification | Speech Recognition | 🥈 Silver Medal |
+| 2024  | Kaggle | SenNet + HOA - Human Vasculature Segmentation | Image Segmentation | 🥈 Silver Medal |
+| 2024  | PRCV | Wide-Area Infrared Small Target Detection | Image Segmentation | 🥇 **Champion** |
+| 2024  | ICPR | Weakly Supervised Infrared Small Target Detection | Image Segmentation | 🥇 **Champion** |
+| 2024  | ICPR | Lightweight Infrared Small Target Detection | Image Segmentation | 🥇 **Champion** |
+| 2024  | China Aerospace | AI Challenge - Remote Sensing Target Recognition | Object Detection | 🥉 Third Place |
+| 2024  | Kaggle | RSNA 2024 Lumbar Spine Degeneration Classification | Object Detection | 🥇 **Gold Medal** |
+| 2025  | Chang Guang Satellite | High-Resolution Road Extraction | Image Segmentation | 🏆 **First Prize** |
+| 2025  | CVPR  | The 4th Anti-UAV Workshop (Track-1) | Object Tracking | 🥇 **Champion** |
+| 2025  | CVPR  | The 4th Anti-UAV Workshop (Track-2) | Object Tracking | 🥈 Runner-Up |
+
+---
+
+### 📄 Publications
+
+| Year | Title | Journal |
+|------|---------------------------|----------|
+| 2021 | Deep-based Super-Angular Resolution for Diffusion Imaging | PRCV |
+| 2022 | NTIRE 2022 Challenge on Stereo Image Super-Resolution | CVPRW |
+| 2023 | Super-Resolved q-Space Learning for Diffusion MRI | Medical Physics |
+| 2023 | Uncertainty-Guided Transformer for Brain Tumor Segmentation | MBEC |
+| 2023 | Graph Convolutional Network with Attention Mechanism for MDD Diagnosis | JAD |
+| 2023 | Validation of Deep Learning for Diffusion MRI Quality Augmentation | NeuroImage |
+| 2024 | Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation | IEEE JSTAR |
+| 2024 | The First Competition on Resource-Limited Infrared Small Target Detection | ICPR |
+
+---
+
+### 📌 Latest Updates
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chainey&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chainey&layout=compact&theme=radical)  
+
+✍️ *Feel free to connect, collaborate, or discuss AI research!* 🚀
 
