@@ -50,6 +50,8 @@
 
 ### 🏅 2021
 - 🥇 **Champion** - CCF Infant Ultrasound Hemangioma Segmentation (Image Segmentation)
+
+### 🏅 2020
 - 🥉 **Third Place** - Huawei Alzheimer's Classification Challenge (Machine Learning)
 
 ---
