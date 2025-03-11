@@ -58,8 +58,10 @@
 
 ## 📄 Publications
 
-### 📜 2024
+### 📜 2025
 - 📝 **Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation** - IEEE JSTAR
+
+### 📜 2024
 - 📝 **The First Competition on Resource-Limited Infrared Small Target Detection** - ICPR
 
 ### 📜 2023
