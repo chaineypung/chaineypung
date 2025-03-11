@@ -20,6 +20,7 @@
 | 2022 | MICCAI | 偏头痛患者dMRI超分辨率竞赛 | 图像超分 | 第五名 |
 | 2022 | CVPR | 双目图像超分辨率竞赛 | 图像超分 | 第七名 |
 | 2023 | Kaggle | UBC Ovarian Cancer Subtype Classification and Outlier Detection | 图像分类 | 银牌 |
+| 2023 | Kaggle | Google Research - Identify Contrails to Reduce Global Warming | 图像分割 | 铜牌 |
 | 2023 | 科大讯飞 | 脑PET图像分析和疾病预测挑战赛 | 图像分类 | **冠军** |
 | 2023 | 科大讯飞 | 粮食和经济作物病害图像识别挑战赛 | 图像分类 | 亚军 |
 | 2024 | Kaggle | Image Matching Challenge | 图像匹配 | **金牌**  |
