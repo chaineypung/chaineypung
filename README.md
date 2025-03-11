@@ -16,6 +16,7 @@
 | 2021 | CCF | 婴儿超声波血管瘤分割挑战赛 | 图像分割 | **冠军** |
 | 2022 | Kaggle | HuBMAP + HPA - Hacking the Human Body | 图像分割 | **金牌** |
 | 2022 | 百度 | 时序提名动作定位大赛 | 动作识别 | **冠军** |
+| 2022 | 百度 | 花样滑冰运动员动作识别 | 动作识别 | Top1% |
 | 2022 | MICCAI | 偏头痛患者dMRI超分辨率竞赛 | 图像超分 | 第五名 |
 | 2022 | CVPR | 双目图像超分辨率竞赛 | 图像超分 | 第七名 |
 | 2023 | Kaggle | UBC Ovarian Cancer Subtype Classification and Outlier Detection | 图像分类 | 银牌 |
