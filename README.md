@@ -6,7 +6,7 @@
 [[My Google Scholar Homepage]](https://scholar.google.com/citations?user=h4orPsUAAAAJ&hl=zh-CN&oi=ao)
 
 
-图像生成，图像匹配，图像分割，图像分类，图像超分辨率，深度估计，姿态估计，目标检测，文字识别，表面法线估计，三维重建，图像配准，语音生成，语音检测，时序预测
+图像生成，图像匹配，图像分割，图像分类，图像超分辨率，深度估计，姿态估计，动作识别，目标检测，目标跟踪，文字识别，表面法线估计，三维重建，图像配准，语音生成，语音检测，时序预测
 
   
 ### ✨ Competition
