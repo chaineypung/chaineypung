@@ -1,12 +1,6 @@
 # 👋 Hi there! I'm **Chainey**
 
 | 🎯 **Computer Vision & AI** | 🏆 **Kaggle Master** |
-
----
-
-## 📫 Contact
-
-📖 **[Google Scholar](https://scholar.google.com/citations?user=h4orPsUAAAAJ&hl=zh-CN&oi=ao)**  
  
 ---
 
