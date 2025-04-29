@@ -52,23 +52,14 @@
 
 ## 📄 Publications
 
-### 📜 2025
 - 📝 **A Simple Detector with Frame Dynamics is a Strong Tracker** - CVPRW
 - 📝 **Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation** - IEEE JSTAR
-
-### 📜 2024
 - 📝 **The First Competition on Resource-Limited Infrared Small Target Detection** - ICPR
-
-### 📜 2023
 - 📝 **Super-Resolved q-Space Learning for Diffusion MRI** - Medical Physics
 - 📝 **Uncertainty-Guided Transformer for Brain Tumor Segmentation** - MBEC
 - 📝 **Graph Convolutional Network with Attention Mechanism for MDD Diagnosis** - JAD
 - 📝 **Validation of Deep Learning for Diffusion MRI Quality Augmentation** - NeuroImage
-
-### 📜 2022
 - 📝 **NTIRE 2022 Challenge on Stereo Image Super-Resolution** - CVPRW
-
-### 📜 2021
 - 📝 **Deep-based Super-Angular Resolution for Diffusion Imaging** - PRCV
 
 ---
