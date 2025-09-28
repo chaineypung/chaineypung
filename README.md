@@ -15,7 +15,7 @@
 ## 🏆 Competitions
 
 ### 🏅 2025
-- 🥇 **Champion** - The 5th "Jittor for AI" Artificial Intelligence Challenge (Image Classification)
+- 🥇 **Champion** - The 5th Jittor Artificial Intelligence Challenge (Image Classification)
 - 🥇 **Champion** - CVPR The 4th Anti-UAV Workshop (Track-1) (Object Tracking)
 - 🥈 **Runner-Up** - CVPR The 4th Anti-UAV Workshop (Track-2) (Object Tracking)
 - 🏆 **First Prize** - Chang Guang Satellite High-Resolution Road Extraction (Image Segmentation)
