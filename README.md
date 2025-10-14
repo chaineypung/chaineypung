@@ -15,6 +15,7 @@
 ## 🏆 Competitions
 
 ### 🏅 2025
+- 🥈 **Silver Medal** - Kaggle RSNA 2025 Intracranial Aneurysm Detection (Object Detection)
 - 🥇 **Champion** - The 5th Jittor Artificial Intelligence Challenge (Image Classification)
 - 🥈 **Runner-Up** - The 5th Jittor Artificial Intelligence Challenge (Image Classification)
 - 🥇 **Champion** - CVPR The 4th Anti-UAV Workshop (Track-1) (Object Tracking)
