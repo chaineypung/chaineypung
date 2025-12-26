@@ -15,6 +15,10 @@
 ## 🏆 Competitions
 
 ### 🏅 2025
+- **PlaceHolder** - 2025 Kaggle Vesuvius Challenge Surface Detection (Image Segmentation)
+- **PlaceHolder** - 2025 Kaggle PhysioNet Digitization of ECG Images (Image Segmentation)
+- **PlaceHolder** - 2025 Oriental Wisdom Eye Cup Remote Sensing Image Intelligent Processing Algorithm Competition (Image Segmentation)
+- **PlaceHolder** - 2025 Tencent Games Algorithm Competition (3D Human Motion Reconstruction)
 - 🥈 **Silver Medal** - Kaggle RSNA 2025 Intracranial Aneurysm Detection (Object Detection)
 - 🥇 **Champion** - The 5th Jittor Artificial Intelligence Challenge (Image Classification)
 - 🥈 **Runner-Up** - The 5th Jittor Artificial Intelligence Challenge (Image Classification)
