@@ -61,6 +61,7 @@
 
 ## 📄 Publications
 
+- 📝 **RoadGIE: Towards A Global-Scale Aerial Benchmark for Generalizable Interactive Road Extraction** - CVPR
 - 📝 **A Simple Detector with Frame Dynamics is a Strong Tracker** - CVPRW Best Paper!
 - 📝 **Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation** - IEEE JSTAR
 - 📝 **The First Competition on Resource-Limited Infrared Small Target Detection** - ICPR
