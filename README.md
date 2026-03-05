@@ -15,7 +15,7 @@
 ## 🏆 Competitions
 
 ### 🏅 2026
-- 🏆 **PlaceHolder** - 2025 Kaggle Vesuvius Challenge Surface Detection (Image Segmentation)
+- 🏆 **Silver Medal** - 2025 Kaggle Vesuvius Challenge Surface Detection (Image Segmentation)
 - 🏆 **Silver Medal** - 2025 Kaggle PhysioNet Digitization of ECG Images (Image Segmentation)
 - 🏆 **PlaceHolder** - 2025 Oriental Wisdom Eye Cup Remote Sensing Image Intelligent Processing Algorithm Competition (Image Segmentation)
 - 🏆 **Third Place** - 2025 Tencent Games Algorithm Competition (3D Human Motion Reconstruction)
