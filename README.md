@@ -1,2 +1,2 @@
-# 👋 Hi there! I'm **Chainey**
+# I'm **Chainey**
 
